@@ -1,4 +1,4 @@
-## Scripts for Web Archives or basic Web & Data Scraping 
+## Scripts for Web Archives or Basic Web & Data Scraping 
 
 These scripts are meant for archiving webpages. Please, avoid illegal use, e.g. downloads.
 
