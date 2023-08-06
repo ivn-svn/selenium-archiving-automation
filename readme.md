@@ -38,6 +38,7 @@ pip install --upgrade urllib3
 ```
 
 #### Sources: 
-1. [The official Selenium website](https://www.selenium.dev/downloads/)
 <br>
-2. [PyPi Selenium](https://pypi.org/project/selenium/)
+
+- [The official Selenium website](https://www.selenium.dev/downloads/)
+- [PyPi Selenium](https://pypi.org/project/selenium/)
